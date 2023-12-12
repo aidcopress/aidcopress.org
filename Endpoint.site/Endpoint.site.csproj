@@ -1,0 +1,106 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\site.temp\assets2\.idea\modules.xml" />
+    <Content Include="wwwroot\site.temp\assets2\.idea\php.xml" />
+    <Content Include="wwwroot\site.temp\assets2\.idea\workspace.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.24">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.24" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.24">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\site.aidcopress.org\Data\" />
+    <Folder Include="Areas\site.aidcopress.org\Models\" />
+    <Folder Include="wwwroot\site.temp\assets\images\menu-main\card\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\site.temp\assets2\.idea\.gitignore" />
+    <None Include="wwwroot\site.temp\assets2\.idea\2-org.iml" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\createPopper.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\contains.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getBoundingClientRect.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getClippingRect.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getCompositeRect.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getComputedStyle.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getDocumentElement.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getDocumentRect.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getHTMLElementScroll.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getLayoutRect.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getNodeName.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getNodeScroll.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getOffsetParent.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getParentNode.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getScrollParent.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getViewportRect.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getWindow.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getWindowScroll.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\getWindowScrollBarX.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\instanceOf.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\isLayoutViewport.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\isScrollParent.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\isTableElement.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\dom-utils\listScrollParents.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\enums.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\applyStyles.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\arrow.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\computeStyles.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\eventListeners.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\flip.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\hide.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\offset.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\popperOffsets.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\modifiers\preventOverflow.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\popper-lite.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\popper.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\computeAutoPlacement.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\computeOffsets.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\debounce.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\detectOverflow.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\expandToHashMap.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\getAltAxis.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\getBasePlacement.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\getFreshSideObject.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\getMainAxisFromPlacement.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\getOppositePlacement.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\getOppositeVariationPlacement.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\getVariation.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\math.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\mergeByName.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\mergePaddingObject.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\orderModifiers.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\rectToClientRect.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\userAgent.js" />
+    <None Include="wwwroot\site.temp\assets2\node_modules\%40popperjs\core\lib\utils\within.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\aidcopress.org.Application\aidcopress.org.Application.csproj" />
+    <ProjectReference Include="..\aidcopress.org.Persistance\aidcopress.org.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\site.aidcopress.org\Views\Shared\_sitelayout-No-Footer.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

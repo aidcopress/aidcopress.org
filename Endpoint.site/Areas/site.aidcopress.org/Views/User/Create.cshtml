@@ -1,0 +1,172 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/site.aidcopress.org/Views/Shared/_sitelayout.cshtml";
+}
+
+
+<!-- contact-us---------------------------->
+<div class="container-main">
+    <div class="col-12">
+        <div id="content">
+            <div class="contact-us">
+                <div class="col-lg-9 col-md-9 col-xs-12 mx-auto">
+                    <div class="contact-us-section">
+                        <div class="box-header">
+                            <span class="box-title">شرکت مجموعه های پرسی توسعه صنایع خودرو</span>
+                        </div>
+                        <div class="contact-us-row">
+                            <p>جهت اضافه نمودن کاربر تمامی موارد ذیل را وارد نمایید</p>
+                        </div>
+                         <form action="#" id="contactForm" class="contact-us-form"> 
+                        @* چون با ایجکس میخواهیم اطلاعات را به کنترلر بفرستیم فرم را حذف میکنیم *@
+                        <div class="contact-us-row contact-us-row--align-top">
+
+                            <label for="#" class="form-field-container">
+                                <div class="form-field-label">نام *</div>
+                                <div class="form-field-frame">
+                                    <input id="Fname" name="Fname" type="text" placeholder="" class="form-field js-input-field form-control">
+
+                                </div>
+                            </label>
+
+                            <label for="#" class="form-field-container">
+                                <div class="form-field-label">رمزعبور*</div>
+                                <div class="form-field-frame">
+                                    <input id="Password" name="Password" type="password" placeholder="" class="form-field js-input-field form-control">
+                                </div>
+                            </label>
+
+                            <label for="#" class="form-field-container">
+                                <div class="form-field-label">نام خانوادگی*</div>
+                                <div class="form-field-frame">
+                                    <input id="Lname" name="Lname" type="text" placeholder="" class="form-field js-input-field form-control">
+                                </div>
+                            </label>
+
+                            <label for="#" class="form-field-container">
+                                <div class="form-field-label">تکرار رمز عبور*</div>
+                                <div class="form-field-frame">
+                                    <input id="RePassword" name="RePassword" type="password" placeholder="" class="form-field js-input-field form-control">
+                                </div>
+                            </label>
+
+                        </div>
+                        <div class="contact-us-row contact-us-row--align-width">
+                            <label for="#" class="form-field-container">
+                                <div class="form-field-label">نام کاربری(کدپرسنلی)*</div>
+                                <div class="form-field-frame">
+                                    <input id="Username" name="Username" type="text" placeholder="" class="form-field js-input-field form-control">
+                                </div>
+                            </label>
+
+                            <label for="#" class="form-field-container">
+                                <div class="form-field-label">نقش*</div>
+                                <div class="custom-select-ui">
+                                    <select class="right" id="RoleId" name="Role" asp-items="@ViewBag.Roles">
+                                        <option>نقش مورد نظر را انتخاب نمایید</option>
+                                    </select>
+
+                                </div>
+                            </label>
+
+                        </div>
+                        <div class="contact-us-row contact-us-row-align-left text-left d-block pl-3"> 
+                        <a onclick="Registeruser()" type="button" class="btn btn-info js-contact-form-submit">
+                            ثبت نام کاربر
+                        </a>
+                         </div> 
+                        </form> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+ @section Scripts 
+     { 
+    <link href="~/site.temp/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+    <script src="~/site.temp/sweetalert2/sweetalert2.min.js"></script>
+
+    <script>
+        function Registeruser() {
+            Swal.fire({
+                title: "ثبت نام کاربر",
+                text: "آیا ثبت نام کاربر انجام شود؟",
+                icon: "question",
+                confirmButtonColor: "#00FF00",
+                cancelButtonColor: "#d33",
+                iconHtml: "?",
+                confirmButtonText: "بله",
+                cancelButtonText: "خیر",
+                showCancelButton: true,
+                showCloseButton: true
+               }).then((result) => {
+
+                if (result.value) {
+
+                    var Fname = $("#Fname").val();
+                    var Lname = $("#Lname").val();
+                    var Username = $("#Username").val();
+                    var Password = $("#Password").val();
+                    var RePassword = $("#RePassword").val();
+                    var RoleId = $("#RoleId").val();
+
+                    var postData = {
+                        'Fname': Fname,
+                        'Lname': Lname,
+                        'Username': Username,
+                        'Password': Password,
+                        'RePassword': RePassword,
+                        'RoleId': RoleId,
+
+
+                    };
+
+                    $.ajax({
+                        contentType: 'application/x-www-form-urlencoded',
+                        dataType: 'json',
+                        type: "POST",
+                        url: "Create",
+                        data: postData,      /* تا اینجای کار اطلاعات ارسال میشود */
+                        success: function (data) {               /*  در اینجا نتیجه ریزالت دی تی او برمیگردد که حاوی Dataو IsSuccess, Message است */
+                            if (data.isSuccess == true) {  /*  در اینجا بایستی ایز ساکسز و مسشج با حروف ک.چک نوشته شوند */
+                                swal.fire(
+                                    'موفق!',
+                                    data.message,
+                                    'success'
+                                ).then(function (isConfirm) {                 /*  در اینجا اگر اطلاعات صحیح باشد صفحه یکبار لود میشود.میتوانید لود نکنید و فقط دیتای فرم را خالی کنید */
+                                    location.reload();
+                                });
+
+
+                            }
+                            else {
+
+                                swal.fire(
+                                    'هشدار!',
+                                    data.message,
+                                    'warning'
+                                );
+
+                            }
+                        },
+                        error: function (request, status, error) {
+                            alert(request.responseText);
+                        }
+
+                    });
+
+                }
+
+            })
+
+        }
+
+     </script>
+
+
+ } 

@@ -1,0 +1,3157 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Endpoint.site.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Endpoint.site.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\Sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\Sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\Sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\Sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\.idea\\modules.xml",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\.idea\\modules.xml"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\.idea\\php.xml",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\.idea\\php.xml"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\.idea\\workspace.xml",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\.idea\\workspace.xml"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\css2.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\css2.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\dark-theme.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\dark-theme.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\flatpickr.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\froala_editor.pkgd.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\froala_editor.pkgd.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\header-colors.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\header-colors.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\select2-bootstrap-5-theme.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\select2-bootstrap-5-theme.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\css\\semi-dark.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\css\\semi-dark.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\in.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\in.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\us.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\us.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\flags\\4x3\\vn.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\flags\\4x3\\vn.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBadr\\BBadr.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBadr\\BBadr.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBadr\\BBadr.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBadr\\BBadr.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBadr\\BBadr.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBadr\\BBadr.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBaran\\BBaran.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBaran\\BBaran.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBaran\\BBaran.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBaran\\BBaran.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBaran\\BBaran.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBaran\\BBaran.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBardiya\\BBardiya.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBardiya\\BBardiya.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBardiya\\BBardiya.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBardiya\\BBardiya.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BBardiya\\BBardiya.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BBardiya\\BBardiya.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BCompset\\BCompset.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BCompset\\BCompset.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BCompset\\BCompset.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BCompset\\BCompset.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BCompset\\BCompset.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BCompset\\BCompset.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BDavat\\BDavat.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BDavat\\BDavat.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BDavat\\BDavat.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BDavat\\BDavat.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BDavat\\BDavat.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BDavat\\BDavat.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BElham\\BElham.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BElham\\BElham.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BElham\\BElham.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BElham\\BElham.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BElham\\BElham.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BElham\\BElham.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BEsfehan\\BEsfehanBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BEsfehan\\BEsfehanBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BEsfehan\\BEsfehanBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BEsfehan\\BEsfehanBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BEsfehan\\BEsfehanBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BEsfehan\\BEsfehanBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFantezy\\BFantezy.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFantezy\\BFantezy.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFantezy\\BFantezy.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFantezy\\BFantezy.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFantezy\\BFantezy.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFantezy\\BFantezy.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFarnaz\\BFarnaz.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFarnaz\\BFarnaz.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFarnaz\\BFarnaz.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFarnaz\\BFarnaz.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFarnaz\\BFarnaz.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFarnaz\\BFarnaz.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFerdosi\\BFerdosi.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFerdosi\\BFerdosi.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFerdosi\\BFerdosi.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFerdosi\\BFerdosi.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BFerdosi\\BFerdosi.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BFerdosi\\BFerdosi.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHamid\\BHamid.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHamid\\BHamid.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHamid\\BHamid.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHamid\\BHamid.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHamid\\BHamid.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHamid\\BHamid.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHelal\\BHelal.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHelal\\BHelal.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHelal\\BHelal.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHelal\\BHelal.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHelal\\BHelal.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHelal\\BHelal.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHoma\\BHoma.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHoma\\BHoma.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHoma\\BHoma.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHoma\\BHoma.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BHoma\\BHoma.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BHoma\\BHoma.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BJadid\\BJadidBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BJadid\\BJadidBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BJadid\\BJadidBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BJadid\\BJadidBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BJadid\\BJadidBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BJadid\\BJadidBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BJalal\\BJalal.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BJalal\\BJalal.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BJalal\\BJalal.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BJalal\\BJalal.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BJalal\\BJalal.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BJalal\\BJalal.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BKoodak\\BKoodakBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BKoodak\\BKoodakBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BKoodak\\BKoodakBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BKoodak\\BKoodakBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BKoodak\\BKoodakBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BKoodak\\BKoodakBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BKourosh\\BKourosh.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BKourosh\\BKourosh.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BKourosh\\BKourosh.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BKourosh\\BKourosh.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BKourosh\\BKourosh.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BKourosh\\BKourosh.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BLotus\\BLotus.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BLotus\\BLotus.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BLotus\\BLotus.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BLotus\\BLotus.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BLotus\\BLotus.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BLotus\\BLotus.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMahsa\\BMahsa.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMahsa\\BMahsa.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMahsa\\BMahsa.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMahsa\\BMahsa.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMahsa\\BMahsa.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMahsa\\BMahsa.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMehr\\BMehrBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMehr\\BMehrBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMehr\\BMehrBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMehr\\BMehrBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMehr\\BMehrBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMehr\\BMehrBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMitra\\BMitra.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMitra\\BMitra.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMitra\\BMitra.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMitra\\BMitra.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMitra\\BMitra.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMitra\\BMitra.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMorvarid\\BMorvarid.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMorvarid\\BMorvarid.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMorvarid\\BMorvarid.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMorvarid\\BMorvarid.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BMorvarid\\BMorvarid.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BMorvarid\\BMorvarid.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNarm\\BNarm.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNarm\\BNarm.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNarm\\BNarm.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNarm\\BNarm.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNarm\\BNarm.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNarm\\BNarm.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNasim\\BNasimBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNasim\\BNasimBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNasim\\BNasimBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNasim\\BNasimBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNasim\\BNasimBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNasim\\BNasimBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNazanin\\BNazanin.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNazanin\\BNazanin.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNazanin\\BNazanin.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNazanin\\BNazanin.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BNazanin\\BNazanin.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BNazanin\\BNazanin.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BRoya\\BRoya.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BRoya\\BRoya.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BRoya\\BRoya.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BRoya\\BRoya.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BRoya\\BRoya.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BRoya\\BRoya.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BSetareh\\BSetarehBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BSetareh\\BSetarehBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BSetareh\\BSetarehBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BSetareh\\BSetarehBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BSetareh\\BSetarehBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BSetareh\\BSetarehBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BShadi\\BShadi.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BShadi\\BShadi.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BShiraz\\BShiraz.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BShiraz\\BShiraz.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BShiraz\\BShiraz.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BShiraz\\BShiraz.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BShiraz\\BShiraz.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BShiraz\\BShiraz.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BSina\\BSinaBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BSina\\BSinaBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BSina\\BSinaBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BSina\\BSinaBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BSina\\BSinaBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BSina\\BSinaBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTabassom\\BTabassom.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTabassom\\BTabassom.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTabassom\\BTabassom.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTabassom\\BTabassom.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTabassom\\BTabassom.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTabassom\\BTabassom.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTehran\\BTehran.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTehran\\BTehran.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTehran\\BTehran.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTehran\\BTehran.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTehran\\BTehran.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTehran\\BTehran.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrTGEBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrTGEBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrTGEBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrTGEBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrTGEBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTitr\\BTitrTGEBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTraffic\\BTraffic.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTraffic\\BTraffic.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTraffic\\BTraffic.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTraffic\\BTraffic.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BTraffic\\BTraffic.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BTraffic\\BTraffic.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BVahid\\BVahidBold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BVahid\\BVahidBold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BVahid\\BVahidBold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BVahid\\BVahidBold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BVahid\\BVahidBold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BVahid\\BVahidBold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYagut\\BYagut.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYagut\\BYagut.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYagut\\BYagut.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYagut\\BYagut.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYagut\\BYagut.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYagut\\BYagut.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYas\\BYas.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYas\\BYas.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYas\\BYas.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYas\\BYas.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYas\\BYas.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYas\\BYas.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan+.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan+.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BYekan\\BYekan.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BZar\\BZar.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BZar\\BZar.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BZar\\BZar.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BZar\\BZar.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BZar\\BZar.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BZar\\BZar.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BZiba\\BZiba.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BZiba\\BZiba.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BZiba\\BZiba.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BZiba\\BZiba.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\BZiba\\BZiba.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\BZiba\\BZiba.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebbold.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanweblight.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\IranYekan\\iranyekanwebregular.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Lalezar\\Lalezar-Regular.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Lalezar\\Lalezar-Regular.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Bold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Bold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Bold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Bold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Bold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Bold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Medium.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Medium.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Medium.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Medium.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Thin.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir-Thin.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\Vazir\\Vazir.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\aviny\\aviny-700.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\aviny\\aviny-700.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu4WxKOzY.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu4mxK.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu5mxKOzY.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu72xKOzY.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu72xKOzY.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu7GxKOzY.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu7WxKOzY.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\fonts-css2\\KFOmCnqEu92Fr1Mu7mxKOzY.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum).ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum).ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_Bold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_Bold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_Light.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_Light.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_Medium.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_Medium.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\IRANSans(FaNum)_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-b.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-b.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-b.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-b.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-b.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-b.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-l.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-l.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-l.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-l.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-l.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-l.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-m.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-m.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-m.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-m.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-m.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-m.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-u.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-u.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-u.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-u.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-u.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans-u.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\fonts\\iranSans\\irsans.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\behance.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\behance.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\dribble.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\dribble.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\envato.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\envato.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\figma.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\figma.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\github.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\github.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\google-calendar.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\google-calendar.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\google-drive.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\google-drive.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\google-photos.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\google-photos.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\google.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\google.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\linkedin.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\linkedin.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\outlook.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\outlook.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\pinterest.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\pinterest.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\safari.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\safari.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\slack.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\slack.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\spotify.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\spotify.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\stack-overflow.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\stack-overflow.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\twitter.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\twitter.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\app\\youtube.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\app\\youtube.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-1.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-1.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-10.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-10.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-11.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-11.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-12.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-12.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-13.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-13.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-14.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-14.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-15.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-15.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-16.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-16.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-17.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-17.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-2.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-2.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-20.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-20.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-23.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-23.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-24.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-24.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-25.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-25.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-3.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-3.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-4.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-4.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-5.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-5.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-6.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-6.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-7.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-7.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-8.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-8.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\avatars\\avatar-9.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\avatars\\avatar-9.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\1.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\1.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\2.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\2.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\3.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\3.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\4.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\4.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\5.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\5.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\6.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\6.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\7.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\7.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\bg-themes\\8.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\bg-themes\\8.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\01.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\01.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\02.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\02.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\03.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\03.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\04.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\04.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\05.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\05.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\06.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\06.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\07.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\07.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\county\\08.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\county\\08.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\errors-images\\404-error.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\errors-images\\404-error.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\errors-images\\505-error.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\errors-images\\505-error.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\20.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\20.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\21.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\21.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\22.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\22.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\23.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\23.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\24.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\24.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\25.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\25.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\26.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\26.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\27.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\27.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\28.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\28.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\29.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\29.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\30.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\30.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\31.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\31.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\32.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\32.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\33.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\33.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\34.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\34.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\35.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\35.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\36.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\36.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\gallery\\37.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\gallery\\37.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\chair.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\chair.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\forgot-2.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\forgot-2.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\headphones.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\headphones.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\idea.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\idea.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\shoes.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\shoes.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\tshirt.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\tshirt.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\user-interface.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\user-interface.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\icons\\watch.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\icons\\watch.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\login-images\\bg-login-img.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\login-images\\bg-login-img.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\login-images\\forgot-password-cover.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\login-images\\forgot-password-cover.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\login-images\\login-cover.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\login-images\\login-cover.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\login-images\\register-cover.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\login-images\\register-cover.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\login-images\\reset-password-cover.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\login-images\\reset-password-cover.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\logo-img.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\logo-img.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\01.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\01.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\02.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\02.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\03.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\03.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\04.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\04.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\05.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\05.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\06.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\06.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\07.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\07.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\08.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\08.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\09.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\09.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\10.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\10.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\11.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\11.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\12.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\12.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\13.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\13.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\14.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\14.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\15.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\15.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\16.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\16.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\17.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\17.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\images\\products\\19.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\images\\products\\19.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\js\\widgets.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\css\\highcharts.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\css\\highcharts.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\accessibility.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\accessibility.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\cylinder.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\cylinder.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\export-data.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\export-data.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\exporting.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\exporting.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\funnel3d.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\funnel3d.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts-3d.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts-custom.script.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts-custom.script.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts-more.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\highcharts.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\solid-gauge.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\solid-gauge.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\variable-pie.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\highcharts\\js\\variable-pie.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\metismenu\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\metismenu\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\metismenu\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\jquery.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\persian-date.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\persian-date.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\feather.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\flatpickr.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\flatpickr.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\froala_editor.pkgd.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\froala_editor.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\index.umd.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\map.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\map.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\quill.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\quill.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\alert.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\button.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\modal.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\popover.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\tab.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\toast.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets2\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets2\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\bootstrap-slider.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\bootstrap.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\jquery.jqZoom.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\jquery.jqZoom.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\lightgallery.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\lightgallery.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\materialdesignicons.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\materialdesignicons.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\nice-select.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\nice-select.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\noUISlider.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\noUISlider.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\css\\vendor\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\css\\vendor\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\lightgallery\\lg.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\lightgallery\\lg.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\lightgallery\\lg.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\lightgallery\\lg.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\lightgallery\\lg.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\lightgallery\\lg.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\lightgallery\\lg.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\lightgallery\\lg.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\404.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\404.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-10.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-10.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-11.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-11.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-12.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-12.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-22.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-22.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-8.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-8.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\adplacement\\a-9.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\adplacement\\a-9.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\blog\\2017 Home Selling Results.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\blog\\2017 Home Selling Results.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\blog\\fortnite-battle-royale-iphone.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\blog\\fortnite-battle-royale-iphone.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\blog\\fortnite-battle-royale-money-revenue-earnings-2018-how-much.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\blog\\fortnite-battle-royale-money-revenue-earnings-2018-how-much.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\blog\\inRqLEr.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\blog\\inRqLEr.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\blog\\iphone-7-plus-water-damage-repair-.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\blog\\iphone-7-plus-water-damage-repair-.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\blog\\shutterstock.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\blog\\shutterstock.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\blog\\women-calligrapher-in-cozy-home-working.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\blog\\women-calligrapher-in-cozy-home-working.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\adata.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\adata.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\huawei.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\huawei.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\nokia.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\nokia.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\panasonic.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\panasonic.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\parskhazar.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\parskhazar.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\samsung.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\samsung.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\shahab.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\shahab.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\brand\\xvison.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\brand\\xvison.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\category\\camera.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\category\\camera.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\category\\cosmetics.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\category\\cosmetics.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\category\\laptop.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\category\\laptop.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\category\\shirt.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\category\\shirt.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\category\\sneakers.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\category\\sneakers.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\category\\toys.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\category\\toys.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\cover\\4k-vs-1080p-laptops-scaled.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\cover\\4k-vs-1080p-laptops-scaled.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\elementor\\Photography-Camera-HD-Wallpaper2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\elementor\\Photography-Camera-HD-Wallpaper2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\elementor\\samsung-galaxy-tab-s6.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\elementor\\samsung-galaxy-tab-s6.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\features\\hardware.ico",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\features\\hardware.ico"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\features\\helpdesk.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\features\\helpdesk.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\features\\manager.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\features\\manager.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\features\\server.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\features\\server.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\features\\software.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\features\\software.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\license\\L-1.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\license\\L-1.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\license\\L-2.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\license\\L-2.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\license\\L-3.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\license\\L-3.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\footer\\license\\L-4.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\footer\\license\\L-4.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\man.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\man.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\child.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\child.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\cup.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\cup.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\edit.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\edit.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\home.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\home.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\makeup.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\makeup.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\print.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\print.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\smartphone.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\smartphone.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\category\\suit.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\category\\suit.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\cosmetic.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\cosmetic.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\digital.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\digital.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\img-card-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\img-card-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\img-card.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\img-card.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\menu-main\\kitchen.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\menu-main\\kitchen.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\100000040.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\100000040.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\add-group.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\add-group.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\gift.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\gift.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\market.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\market.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\open-box.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\open-box.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\other.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\other.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\other.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\other.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\return.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\return.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\sport-team.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\sport-team.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\tracking.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\tracking.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-faq\\transparency.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-faq\\transparency.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\contact-us.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\contact-us.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\delivery.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\delivery.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\origin-guarantee.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\origin-guarantee.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\payment-terms.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\payment-terms.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-6.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-6.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-7.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10-big-7.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\product-img\\product-img-note10.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\return-policy.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\return-policy.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-6.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\page-single-product\\tab-content\\note10-6.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\search.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\search.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\search1.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\search1.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\shopping-cart.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-amazing\\alarm-clock.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-amazing\\alarm-clock.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-amazing\\as-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-amazing\\as-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-amazing\\as-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-amazing\\as-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-amazing\\as-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-amazing\\as-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-amazing\\as-4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-amazing\\as-4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-amazing\\as-5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-amazing\\as-5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-amazing\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-amazing\\shopping-cart.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-0.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-0.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-6.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-6.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-7.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-7.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-8.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-8.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-4\\m-9.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-4\\m-9.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-5\\s-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-5\\s-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-5\\s-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-5\\s-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\h-5\\s-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\h-5\\s-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\sm-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\sm-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\sm-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\sm-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\sm-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\sm-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\sm-4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\sm-4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-main\\sm-5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-main\\sm-5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-moment\\sm-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-moment\\sm-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-moment\\sm-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-moment\\sm-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-moment\\sm-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-moment\\sm-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-moment\\sm-4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-moment\\sm-4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-moment\\sm-5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-moment\\sm-5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\Avocado.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\Avocado.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\DNR 290T-366T.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\DNR 290T-366T.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\ECM2013.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\ECM2013.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\Galaxy-S10-SM-G973F.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\Galaxy-S10-SM-G973F.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\P-Smart-2019.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\P-Smart-2019.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\SL1200_-300x300.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\SL1200_-300x300.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\SWF-40R.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\SWF-40R.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\Samsung-S10Plus.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\Samsung-S10Plus.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\Stove-lopez.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\Stove-lopez.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\asus-laptop.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\asus-laptop.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\boxing.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\boxing.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\btt.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\btt.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\camera-canon-4000D.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\camera-canon-4000D.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\camera-instax-mini-70.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\camera-instax-mini-70.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\camera-nikon-3500D.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\camera-nikon-3500D.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\camera-nikon.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\camera-nikon.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\camera-samsung.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\camera-samsung.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\computer-appel.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\computer-appel.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\honer.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\honer.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\huawei-p-smart.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\huawei-p-smart.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\huawei.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\huawei.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\iphone-11-pro-max.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\iphone-11-pro-max.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\iphone-xs-max-space.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\iphone-xs-max-space.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\mitbook.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\mitbook.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\t-shirt-1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\t-shirt-1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\t-shirt-2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\t-shirt-2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\t-shirt-3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\t-shirt-3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\slider-product\\zenbook.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\slider-product\\zenbook.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\images\\three-dots.svg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\images\\three-dots.svg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\ResizeSensor.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\ResizeSensor.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\bootstrap.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\countdown.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\countdown.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\jquery.countdown.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\jquery.ez-plus.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\jquery.ez-plus.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\jquery.jqZoom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\jquery.jqZoom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\lightgallery-all.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\lightgallery-all.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\theia-sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\theia-sticky-sidebar.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\js\\vendor\\wNumb.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\js\\vendor\\wNumb.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\apexcharts-bundle\\js\\apex-custom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\apexcharts-bundle\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\css\\highcharts.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\css\\highcharts.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\accessibility.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\accessibility.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\cylinder.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\cylinder.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\export-data.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\export-data.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\exporting.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\exporting.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\funnel3d.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\funnel3d.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts-3d.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts-3d.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts-custom.script.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts-custom.script.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts-more.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\highcharts.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\solid-gauge.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\solid-gauge.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\highcharts\\js\\variable-pie.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\highcharts\\js\\variable-pie.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\metismenu\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\metismenu\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\metismenu\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\persianDataPicker\\jquery.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\persianDataPicker\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\persianDataPicker\\persian-date.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\persianDataPicker\\persian-date.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\persianDataPicker\\persian-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\aidcopress.org\\aidcopress.org\\Endpoint.site\\wwwroot\\site.temp\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\site.temp\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Endpoint.site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Endpoint.site.props",
+      "PackagePath": "build\\Endpoint.site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Endpoint.site.props",
+      "PackagePath": "buildMultiTargeting\\Endpoint.site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Endpoint.site.props",
+      "PackagePath": "buildTransitive\\Endpoint.site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,403 @@
+﻿@using aidcopress.org.Application.Services.Users.Queries.GetPersonelHolidays 
+@model ResultGetPersonelHolidayDto 
+
+ @{
+    ViewData["Title"] = "Holidays";
+    Layout = "~/Areas/site.aidcopress.org/Views/Shared/_sitelayout-No-Footer.cshtml";
+}
+
+
+<!-- profile------------------------------->
+
+   
+    
+    <div class="container-main">
+    <div class="d-block">
+        <section class="profile-home">
+            <div class="col-lg">
+                <div class="post-item-profile order-1 d-block">
+                    <div class="col-lg-3 col-md-3 col-xs-12 pr">
+                        <div class="sidebar-profile sidebar-navigation">
+                            <section class="profile-box">
+                                <header class="profile-box-header-inline">
+                                    <div class="profile-avatar user-avatar profile-img">
+                                        <img src="~/site.temp/assets2/assets/images/man.png">
+                                    </div>
+                                </header>
+                                <footer class="profile-box-content-footer">
+                                    <span class="profile-box-nameuser">حسن شجاعی</span>
+                                    <span class="profile-box-registery-date">عضویت در سایت 2 پیش</span>
+                                    <span class="profile-box-phone">شماره همراه : *******0991</span>
+                                    <div class="profile-box-tabs">
+                                        <a href="#" class="profile-box-tab-sign-out">
+                                            <i class="mdi mdi-logout-variant"></i>خروج از حساب
+                                        </a>
+                                    </div>
+                                </footer>
+                            </section>
+                            <section class="profile-box">
+                                <ul class="profile-account-navs">                               
+                                    <div class="validate-required">
+                                        <input id="Personel_code" name="Personel_code" type="text" placeholder="کد پرسنلی را وارد نمایید" class="input-name-checkout form-control">
+                                    </div>
+                                    <div class="contact-us-row contact-us-row-align-left text-left d-block pl-3">
+                                        <button onclick="AddToList()" type="button" class="btn btn-info js-contact-form-submit" >
+                                            اضافه به لیست
+                                        </button>
+                                        <div class="container-main">                                    
+                                    </div>                                 
+                                </ul>
+                            </section>
+                            <section class="profile-box">
+                                <ul class="profile-account-navs">                                
+                                    <li  class="profile-account-nav-item navigation-link-dashboard">
+                                        <div class="mdi mdi-map-outline">تاریخ</div>
+                                        <div class="form-field-frame">
+                                            <input type="text" class="form-control mydate" placeholder="تاریخ">
+                                        </div>
+                                    </li>
+                                    <li class="profile-account-nav-item navigation-link-dashboard">
+                                        <div class="contact-us-row contact-us-row-align-left text-left d-block pl-3">
+                                            <a onclick="Registeruser()" type="button" class="btn btn-info js-contact-form-submit" >
+                                                ثبت نام کاربر
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-xs-12 pl">
+                        <div class="profile-content">
+                            <div class="profile-stats">
+                                <div class="profile-comment">
+                                    <table id="submissionTable" class="table table-borderless table-profile-comment">
+                                        <thead class="thead-light">
+                                            <tr>
+                                                <th scope="col">نام</th>
+                                                <th scope="col">نام خانوادگی</th>
+                                                <th scope="col">سمت</th>
+                                                <th scope="col">شغل</th>
+                                                <th scope="col">کدپرسنلی</th>
+                                                <th scope="col">کدراهکاران</th>
+                                                <th scope="col">علت اضافه کار</th>
+                                                <th scope="col">مسیرسرویس</th>
+                                                <th scope="col">حذف</th>                                               
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+
+                                  
+
+
+
+                                        </tbody>
+                                    </table>
+                                    <div class="profile-orders">
+                                        <div class="collapse">
+                                            <div class="profile-orders-item">
+                                                <div class="profile-orders-header">
+                                                    <a href="profile-order-2.html"
+                                                       class="profile-orders-header-details">
+                                                        <div class="profile-orders-header-summary">
+                                                            <div class="profile-orders-header-row">
+                                                                <span class="profile-orders-header-id">DKC-79356178</span>
+                                                                <span class="profile-orders-header-state text-success">
+                                                                    پرداخت
+                                                                    شده
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                    <!-- <hr class="ui-separator"> -->
+                                                    <div class="profile-orders-header-data">
+                                                        <div class="profile-info-row">
+                                                            <div class="profile-info-label">تاریخ ثبت سفارش</div>
+                                                            <div class="profile-info-value">
+                                                                سه شنبه 4 فروردین 99
+                                                            </div>
+                                                        </div>
+                                                        <div class="profile-info-row">
+                                                            <div class="profile-info-label">مبلغ قابل پرداخت</div>
+                                                            <div class="profile-info-value">0</div>
+                                                        </div>
+                                                        <div class="profile-info-row">
+                                                            <div class="profile-info-label">مبلغ کل</div>
+                                                            <div class="profile-info-value">
+                                                                <span class="amount">
+                                                                    2,400,000
+                                                                    <span>تومان</span>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+
+
+
+<link href="~/site.temp/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+<script src="~/site.temp/sweetalert2/sweetalert2.min.js"></script>
+
+
+
+
+<!-- profile------------------------------->
+@section Script_Holiday
+     {
+
+    <script src="~/site.temp/assets/js/app.js"></script>
+    <link rel="stylesheet" href="~/site.temp/assets2/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/site.temp/assets2/assets/plugins/persianDataPicker/persian-datepicker.min.css" />
+    <script src="~/site.temp/assets2/assets/plugins/persianDataPicker/jquery.min.js"></script>
+    <script src="~/site.temp/assets2/assets/plugins/persianDataPicker/persian-date.min.js"></script>
+    <script src="~/site.temp/assets2/assets/plugins/persianDataPicker/persian-datepicker.min.js"></script>
+   <script>
+        function AddToList() {
+           
+                    var Personel_code = $("#Personel_code").val();                    
+                    var postData = {
+                        'Personel_code': Personel_code,
+                      };
+
+                    $.ajax({
+
+                 
+                    
+
+                        contentType: 'application/x-www-form-urlencoded',
+                        dataType: 'json',
+                        type: "POST",
+                        url: "Holidays",
+                        data: postData,                                             /* تا اینجای کار اطلاعات ارسال میشود */
+                        success: function (data) {                                  /*  در اینجا نتیجه ریزالت دی تی او برمیگردد که حاوی Dataو IsSuccess, Message است */
+                            if (data.isSuccess == true) {
+                                Swal.fire({
+                                    title: "آیا مشخصات ذیل را تایید می نمایید؟",
+                                    text: data.data.first_name + ' ' + data.data.last_name,
+                                    icon: "question",
+                                    confirmButtonColor: "#00FF00",
+                                    cancelButtonColor: "#d33",
+                                    iconHtml: "?",
+                                    confirmButtonText: "بله",
+                                    cancelButtonText: "خیر",
+                                    showCancelButton: true,
+                                    showCloseButton: true
+                                        })
+                                .then((result) => {
+
+                                      if (result.value) {
+
+
+
+
+                                   //  var inputOptions = {}; // Define like this!
+
+                                   //  // Instead of sample variables,
+                                   //  // your data handling here
+
+                                   //  var vREGISTRY_ID = "500";
+                                   //  var vACCOUNT_NAME = "Peter";
+
+
+
+                                   //  // Add the Variables like this
+                                   //  // This will create '500' : 'Peter',
+                                   //  inputOptions[vREGISTRY_ID] = vACCOUNT_NAME;
+                                   //  inputOptions["455"] = "Martin";
+
+                                   //  // Note that the options will get sorted by their value
+
+                                   //  swal.fire({
+                                   //      title: 'لطفا یک مسیر سرویس انتخاب نمایید',
+                                   //      input: 'select',
+                                   //      inputOptions: inputOptions,
+                                   //      inputPlaceholder: 'لیست مسیرها',
+                                   //      showCancelButton: true,
+                                   //      inputValidator: function (value) {
+                                   //          return new Promise(function (resolve, reject) {
+                                   //              if (value == "500") {
+                                   //                  resolve();
+                                   //              } else {
+                                   //                  reject('You need to select Peter :)');
+                                   //              }
+                                   //          });
+                                   //      }
+                                   //  }).then(function (result) {
+                                   //        swal.fire({
+                                   //            type: 'success',
+                                   //            html: 'You selected: ' + result
+                                   //        });
+                                   // })
+
+
+
+                                    Swal.fire({
+                                        title: `علت اضافه کار`,
+                                        input: "text",
+                                        allowOutsideClick: false,
+                                        inputAttributes: {
+                                            autocapitalize: "on",
+                                        },
+                                        showCancelButton: false,
+                                        confirmButtonText: "ذخیره",
+                                        showLoaderOnConfirm: true,
+                                        preConfirm: (name) => {
+
+
+
+                                            if (!name || name.trim() === "") {
+                                                Swal.showValidationMessage("لطفا دلیل اضافه کار را وارد نمایید");
+                                            }
+
+                                            else  {
+
+                                                
+                                                $('<tr id="tablerow' + counter + '"><td>' +
+                                                    data.data.first_name +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    data.data.last_name +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    data.data.semat +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    data.data.shoghl +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    data.data.personel_code +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    data.data.rahkaran_code +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    name +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    data.data.rahkaran_code +
+                                                    '</td>' +
+                                                    '<td>' +
+                                                    '<button class="profile-comment-remove" onclick="removeTr(' + counter + ');" > <i class="fa fa-trash" > </i></button >' +
+                                                    '</td>' +
+
+                                                    '</tr>').appendTo('#submissionTable');
+                                                counter++;
+                                                swal.close()
+                                                return false;
+
+                                                
+                                                
+                                                       }
+                                            
+                                        },
+
+                                      
+                                    })
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          // swal.fire(
+                                          //     /*  در اینجا بایستی ایز ساکسز و مسشج با حروف ک.چک نوشته شوند */
+                                          //     'ثبت موفق',
+                                          //     data.data.first_name + ' ' + data.data.last_name + ' ' + data.message,//بسیار مهم و کاربردی .در اینجا ما مقدار را از لیست پرسنل دریافت کردیم     
+                                          //     'success'
+                                          // )
+                                    
+                                    
+                                    
+                                    // .then(function (isConfirm) {                       /*  در اینجا اگر اطلاعات صحیح باشد صفحه یکبار لود میشود.میتوانید لود نکنید و فقط دیتای فرم را خالی کنید */
+                                    //         location.reload();
+
+
+                                    // } );
+                                      }
+                                }
+                                )
+                                }
+                                else {
+
+                                    swal.fire(
+                                        'هشدار!',
+                                        data.message,
+                                        'warning'
+                                    );
+
+                                } 
+                        },
+                        error: function (request, status, error) {
+                            alert(request.responseText);
+                        }
+
+                    });  
+
+        }
+
+    </script>
+
+    <script type="text/javascript">
+        var counter = 1;
+        $(function  () {
+            $('#add').click(function () {
+                $('<tr id="tablerow' + counter + '"><td>' +
+                    '<input type="text" class="text-box single-line" name="ClientSampleID[' + counter + ']" value="" required="required" />' +
+                    '</td>' +
+                    '<td>' +
+                    '<input type="text" class="text-box single-line" name="AdditionalComments[' + counter + ']" value="" required="required" />' +
+                    '</td>' +
+                    '<td>' +
+                    '<input type="text" class="text-box single-line" name="AcidStables[' + counter + ']" value="" required="required" />' +
+                    '</td>' +
+                    '<td>' +
+                    '<button type="button" class="btn btn-primary" onclick="removeTr(' + counter + ');">Delete</button>' +
+                    '</td>' +
+                    '</tr>').appendTo('#submissionTable');
+                counter++;
+                return false;
+            });
+        });
+        function removeTr(index) {
+            if (counter > 1) {
+                $('#tablerow' + index).remove();
+                counter--;
+            }
+            return false;
+        }
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $(".mydate").pDatepicker({
+                initialValueType: "gregorian",
+                format: "YYYY/MM/DD",
+                onSelect: "year"
+            });
+        });
+    </script>
+
+
+     }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRRswH4sEc08W1XPXwlPtENrR/20WY5SUrIL4r5Vh8qw1oSqalMn0xZ9M+KribEOaBeLBnbf8nxgpyWE+r92Og==",
+  "success": true,
+  "projectFilePath": "D:\\aidcopress.org\\aidcopress.org\\aidcopress.org.Common\\aidcopress.org.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasin.AIDCOPRESS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.24\\microsoft.aspnetcore.cryptography.internal.6.0.24.nupkg.sha512",
+    "C:\\Users\\yasin.AIDCOPRESS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.24\\microsoft.aspnetcore.cryptography.keyderivation.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

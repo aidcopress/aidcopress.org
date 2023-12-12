@@ -1,0 +1,12 @@
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\bin\Debug\net6.0\aidcopress.org.Common.deps.json
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\bin\Debug\net6.0\aidcopress.org.Common.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\bin\Debug\net6.0\aidcopress.org.Common.pdb
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\aidcopress.org.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\aidcopress.org.Common.AssemblyInfoInputs.cache
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\aidcopress.org.Common.AssemblyInfo.cs
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\aidcopress.org.Common.csproj.CoreCompileInputs.cache
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\aidcopress.org.Common.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\refint\aidcopress.org.Common.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\aidcopress.org.Common.pdb
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\ref\aidcopress.org.Common.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Common\obj\Debug\net6.0\aidcopress.org.Common.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\bin\Debug\net6.0\aidcopress.org.Domain.deps.json
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\bin\Debug\net6.0\aidcopress.org.Domain.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\bin\Debug\net6.0\aidcopress.org.Domain.pdb
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\aidcopress.org.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\aidcopress.org.Domain.AssemblyInfoInputs.cache
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\aidcopress.org.Domain.AssemblyInfo.cs
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\aidcopress.org.Domain.csproj.CoreCompileInputs.cache
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\aidcopress.org.Domain.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\refint\aidcopress.org.Domain.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\aidcopress.org.Domain.pdb
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Domain\obj\Debug\net6.0\ref\aidcopress.org.Domain.dll

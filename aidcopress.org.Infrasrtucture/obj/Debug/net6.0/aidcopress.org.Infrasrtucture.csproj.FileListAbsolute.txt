@@ -1,0 +1,11 @@
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\bin\Debug\net6.0\aidcopress.org.Infrasrtucture.deps.json
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\bin\Debug\net6.0\aidcopress.org.Infrasrtucture.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\bin\Debug\net6.0\aidcopress.org.Infrasrtucture.pdb
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\aidcopress.org.Infrasrtucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\aidcopress.org.Infrasrtucture.AssemblyInfoInputs.cache
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\aidcopress.org.Infrasrtucture.AssemblyInfo.cs
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\aidcopress.org.Infrasrtucture.csproj.CoreCompileInputs.cache
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\aidcopress.org.Infrasrtucture.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\refint\aidcopress.org.Infrasrtucture.dll
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\aidcopress.org.Infrasrtucture.pdb
+D:\aidcopress.org\aidcopress.org\aidcopress.org.Infrasrtucture\obj\Debug\net6.0\ref\aidcopress.org.Infrasrtucture.dll
